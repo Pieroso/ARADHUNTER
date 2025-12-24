@@ -4,7 +4,7 @@ import { initializeApp, getApps } from 'firebase/app';
 
 // CONFIG COMPLETA di Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBjiGKmFD_v1wcb1IGQRgrOD0z1TT6qG2s",
+  apiKey: "",
   authDomain: "ar-ad-hunter.firebaseapp.com",
   projectId: "ar-ad-hunter",
   storageBucket: "ar-ad-hunter.appspot.com",
