@@ -1,0 +1,10 @@
+{
+  "name": "ARAdHunterClean",
+  "displayName": "ARAdHunterClean",
+  "extra": {
+    "eas": {
+      "projectId": "bb35522f-b766-48bd-ad14-89ac56dcf724"
+    }
+  },
+  "owner": "piesup"
+}
