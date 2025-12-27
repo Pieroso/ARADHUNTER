@@ -8,8 +8,9 @@
       "developmentClient": true,
       "distribution": "internal"
     },
-    "preview": {
-      "distribution": "internal"
+  "preview": {
+      "distribution": "internal",
+      "clean": true
     },
     "production": {
       "autoIncrement": true
